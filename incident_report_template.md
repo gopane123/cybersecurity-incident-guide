@@ -19,3 +19,4 @@
 ### 3. Containment & Remediation
 * **Immediate Actions Taken:** 
 * **Resolution Status:** Open | In Progress | Resolved
+* feat: add SOC incident reporting template
